@@ -1,0 +1,3 @@
+[submodule "ie_exa2"]
+	path = ie_exa2
+	url = https://github.com/AnnikaTervo/io_exa.git
